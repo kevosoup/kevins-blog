@@ -1,22 +1,15 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: My Journey
+date: "2020-04-10T22:12:03.284Z"
+description: "My first post! A short summary about my web development experience so far and the first application I'd like to create."
 ---
 
-This is my first post on my new fake blog! How exciting!
+My first blog post! 
 
-I'm sure I'll write a lot more interesting things in the future.
+I've always been interested in the web world, I love design, and I've been spending a lot of my free time working through [Colt Steele's](https://www.udemy.com/user/coltsteele/) Udemy course, [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+I have an idea for an application I'd like to create. The concept is simple; create an intuitive application where multiple users can work together to complete routine chores. I'd like to call it -- WeClean. I've been brainstorming and writing down all of the feature I'd like to create for it, and it will have to be done in stages. I'm debating at the moment of which frameworks to use. I've learned through the online bootcamp how to create an application with the Express framework (NodeJS) and MongoDB, however I'm not sure if I should try something new. I'd like to focus on learning some new Front-End technology eventually, specifically ReactJS seems to be a good Javascript Framework to move towards.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+I've started the wireframes for WeClean using [Sketch](https://www.sketch.com/) and I must admit, I'm really liking this program. It feels simple and intuitive (not to mention the UI is super sleek). I'll post some of the screenshots once I have finished V1. I'm excited to be starting this project. I still work a full time job at the moment so unfortunately my progress may be slow, but I'll post as often as I can!
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Sketch Logo](./sketch-logo.svg)
