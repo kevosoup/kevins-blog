@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Kevin's Web Dev Blog`,
+    title: `Kevin's Web Dev`,
     author: {
       name: `Kevin Schwartz`,
-      summary: `who lives in Columbus, Ohio. My journey to becomming a web developer and designer.`,
+      summary: `who lives in Columbus, Ohio. My web development and design experiences.`,
     },
-    description: `Follow me in my journey of web development.`,
+    description: `Follow me in my journey of web development and design.`,
     siteUrl: `https://kevinschwartz.me/`,
     social: {
       twitter: `kevosoup`,
